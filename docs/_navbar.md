@@ -5,4 +5,7 @@
 
 * 前端技术
     * [javascript](01/javascript/)
-    * [echarts](01/echarts)
+    * [echarts](01/echarts/)
+    
+* 版本控制和shell脚本
+    * [shell](/04/shell/)
